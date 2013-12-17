@@ -18,7 +18,7 @@ it is a chatroom, tiny example, how cool Sails.js is.
   
 ###Execute
 
-open broswer (maybe Chrome is best...i am NOT sure.).
+open broswer (maybe Chrome can get better experience...i am NOT sure.).
 
     http://localhost:1337
   
