@@ -11,16 +11,16 @@ it is a chatroom, tiny example, how cool Sails.js is.
 
 ###Quick install
 
-  git clone https://github.com/clonn/sails-talk-demo.git
-  cd sails-talk-demo
-  npm i
-  node app.js
+    git clone https://github.com/clonn/sails-talk-demo.git
+    cd sails-talk-demo
+    npm i
+    node app.js
   
 ###Execute
 
 open broswer (maybe Chrome is best...i am NOT sure.).
 
-  http://localhost:1337
+    http://localhost:1337
   
 ###License
 
